@@ -1,1 +1,1 @@
-# CuPy-Neural-Network
+A simple MLP model using CuPy library.
